@@ -1,7 +1,11 @@
 items:
 - title : Artwork
-  url: /
-- title : Text
-  url: /text
+  url: /artworks
+- title : Drawing
+  url: /drawings
+- title : Critique
+  url: /critiques
+- title : Note
+  url: /notes
 - title : About
   url: /about
