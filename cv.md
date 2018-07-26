@@ -2,6 +2,7 @@
 layout: about
 title: CV
 permalink: /cv
+navItemTitle: CV
 ---
 
 ## Education
