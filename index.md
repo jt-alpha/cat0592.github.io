@@ -1,6 +1,6 @@
 ---
 layout: artworks
-title: Main
+title: MAIN
 item: main
 permalink: /
 ---

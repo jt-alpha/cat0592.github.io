@@ -1,6 +1,6 @@
 ---
 layout: artworks
-title: Drawings
+title: DRAWINGS
 item: drawing
 permalink: /drawings
 ---

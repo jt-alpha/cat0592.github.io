@@ -1,6 +1,6 @@
 ---
 layout: artworks
-title: Artworks
+title: ARTWORKS
 item: artwork
 permalink: /artworks
 ---

@@ -1,9 +1,42 @@
 name: Seokwoo Chung
-email: cat0592@hanmail.net
+email: cattac81@gmail.com
 description: ~
 copyright_year: 2018
 
 exhibitions:
+  -
+    title: Solo exhibitions
+    list:
+      - 2017 From deer to leopard, spacesun+, Seoul
+      - 2016 Eye to see the ridge, collabomarket, Seoul
+      - 2013 The beat, that I remember, gallery Dos, Seoul
+      - 2011 Indusprism_have no wish, Jeongnimri gallery, Yanggu
+      - 2010 Bodhi tree world, gallery Dos-woonmoha, Seoul
+  -
+    title: Group exhibitions
+    list:
+      - 2018 On th void, gallery Choi, Seoul
+      - 2018 Abstract is verb, Artertain, Seoul
+      - 2017 Brush Strokes, gallery palais de seoul, Seoul
+      - 2017 Self-Propelled Wheel, KSD gallery, Seoul
+      - 2016 Water and Dreams, Sempio space, Icheon
+      - 2014 Melting dot, gallery Dos, Seoul
+      - 2013 Shared Isolation, Kumho Museum of Art, Seoul
+      - 2012 Distancing, Kumho Museum of Art, Seoul
+      - 2012 Economic Love Camp(crawling Landscape), ggoolll, Seoul
+      - 2011 Fresh blood, Sempio space, Icheon
+      - 2011 Atomic 13, Gongpyeong gallery, Seoul
+      - 2010 Link, Park,SooKeun Museum, Yanggu
+      - 2010 nonagon prism, gallery AG, seoul
+      - 2009 Das Schloss(crawling Landscape), Total Museum-the room, Seoul
+      - 2008 Semutbut_believe me, Kookminart gallery, Seoul
+      - 2007 Voice of East Asia, Alternative space Pool, Seoul
+      - 2007 Gateway to the world, Kookminart gallery, Seoul
+      - 2005 Now here, Kookminart gallery, Seoul
+  -
+    title: Residency
+    list:
+      - 2011-2013 Studio Residency, Kumho Art Studio, Icheon
   -
     title: 개인전
     list:
