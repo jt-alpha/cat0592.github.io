@@ -1,8 +1,9 @@
 ---
 layout: text
 categories: text
-author: Seokwoo Chung
-title: 인지하지 못하는 것의 ‘이미 알고 있음‘을 시각화 - 정석우
+author: 정석우
+title: 인지하지 못하는 것의 ‘이미 알고 있음‘을 시각화
+order: 120
 ---
 
 A visualized realization of something unrealizable.

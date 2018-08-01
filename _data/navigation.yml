@@ -1,11 +1,11 @@
 items:
-- title : ARTWORK
+- title : Artwork
   url: /artworks
-- title : DRAWING
+- title : Drawing
   url: /drawings
-- title : PROJECT
+- title : Project
   url: /projects
-- title : TEXT
+- title : Text
   url: /texts
 - title : CV
   url: /cv

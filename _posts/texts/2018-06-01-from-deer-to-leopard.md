@@ -1,8 +1,9 @@
 ---
 layout: text
 categories: text
-author: Seokwoo Chung
-title: 사슴에서 표범 - 정석우
+author: 정석우
+title: 사슴에서 표범
+order: 115
 ---
 
 From deer to leopard
